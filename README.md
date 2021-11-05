@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hospital Management
 Developer - Raumish Kumar
 ---
@@ -78,3 +79,7 @@ This project is developed for demo purpose and it's not supposed to be used in r
 Any suggestion and feedback is welcome. You can message me on facebook
 - [Contact on Facebook](https://fb.com/sumit.luv)
 - [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
+=======
+# Frontend
+Course : CPE327 Software Engineering
+>>>>>>> 8537ae38aad3fad8170a50526fb47e5c6be24608
