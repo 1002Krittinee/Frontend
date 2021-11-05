@@ -1,4 +1,4 @@
-# Hospital Management
+# Hospital Booking Appointment System (HBAS) 
 Developer - KMUTT STUDENT
 Course - CPE327 Software Engineering
 
@@ -23,8 +23,6 @@ Course - CPE327 Software Engineering
 - Can view their booked appointment status (pending/confirmed by admin).
 - Can book appointments.(approval required by admin)
 - Can view/download Invoice pdf (Only when that patient is discharged by admin).
-
----
 
 ## HOW TO RUN THIS PROJECT
 - Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
@@ -63,8 +61,4 @@ https://myaccount.google.com/lesssecureapps
 - On update page of doctor/patient you must have to update password.
 
 ## Disclaimer
-This project is developed for demo purpose and it's not supposed to be used in real application.
-
-
-
-
+This project is developed for CPE357 Software Engineering.
